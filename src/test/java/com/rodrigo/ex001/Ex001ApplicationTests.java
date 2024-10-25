@@ -1,10 +1,10 @@
-package com.rodrigo.ex001;
+package com.rodrigo.ChallengerItau;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ex001ApplicationTests {
+class ChallengerItauApplicationTests {
 
 	@Test
 	void contextLoads() {
